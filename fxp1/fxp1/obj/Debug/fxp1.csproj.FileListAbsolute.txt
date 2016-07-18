@@ -1,0 +1,9 @@
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\bin\Debug\fxp1.exe.config
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\bin\Debug\fxp1.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\bin\Debug\fxp1.pdb
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\obj\Debug\fxp1.csprojResolveAssemblyReference.cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\obj\Debug\fxp1.Form1.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\obj\Debug\fxp1.Properties.Resources.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\obj\Debug\fxp1.csproj.GenerateResource.Cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\obj\Debug\fxp1.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\fxp1\fxp1\obj\Debug\fxp1.pdb
