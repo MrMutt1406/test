@@ -38,6 +38,7 @@ namespace fxp1
                 textBox2.Text = dice2;
                 textBox3.Text = dice3;
                 textBox4.Text = dice4;
+                //let's go dance!
             }
         }
         private void button2_Click(object sender, EventArgs e)
